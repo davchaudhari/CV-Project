@@ -1,6 +1,6 @@
 # Skin Cancer Detection: An Ensemble Strategy
 
-Early detection of skin cancer is crucial for improving survival rates. This project aims to enhance skin cancer detection by leveraging patterns in skin lesions using Convolutional Neural Networks (CNNs). I employ ResNet, AlexNet, VGG, and DenseNet models, utilizing an ensemble strategy to improve robustness. This repository contains the implementation of the project along with necessary scripts and instructions for replicating the results.
+Early detection of skin cancer is crucial for improving survival rates. This project aims to enhance skin cancer detection by leveraging patterns in skin lesions using Convolutional Neural Networks (CNNs). I employed the ResNet, AlexNet, VGG, and DenseNet models, utilizing an ensemble strategy to improve robustness. This repository contains the implementation of the project along with necessary scripts and instructions for replicating the results.
 
 ## Table of Contents
 - [Introduction](#introduction)
